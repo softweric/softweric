@@ -1,5 +1,5 @@
 # Eric Silva
-🧑🏼‍💻 **20, software engineer**
+🧑🏼‍💻 **software engineer**
 
 [![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=F28500)](https://nodejs.org/docs/)
 [![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)](https://git-scm.com/doc)
